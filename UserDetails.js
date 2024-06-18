@@ -4,6 +4,7 @@ import { View, Text, StyleSheet, Image, ScrollView } from 'react-native';
 const UserDetails = ({ route }) => {
   const { user } = route.params;
 
+  
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <View style={styles.card}>
