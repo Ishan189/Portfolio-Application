@@ -1,6 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 # UI
 ![image](https://github.com/Ishan189/Portfolio-Application/assets/125630928/49f7f564-b0ed-41ca-9eb8-65f170c30492)
+![image](https://github.com/Ishan189/Portfolio-Application/assets/125630928/ddcd5e77-8726-47f8-a829-dd6f115ab4e6)
 
 
 
