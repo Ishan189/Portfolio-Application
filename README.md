@@ -4,7 +4,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ![image](https://github.com/Ishan189/Portfolio-Application/assets/125630928/ddcd5e77-8726-47f8-a829-dd6f115ab4e6)
 
-![Uploading image.png…]()
+![image](https://github.com/Ishan189/Portfolio-Application/assets/125630928/86825040-1954-44e6-9610-f3dc8e0c3932)
+
 
 
 
